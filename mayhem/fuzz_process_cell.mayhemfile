@@ -1,0 +1,4 @@
+project: xlsx
+target: process_cell
+cmds:
+- cmd: /out/fuzz_process_cell
