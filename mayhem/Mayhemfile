@@ -1,0 +1,5 @@
+project: xlsx
+target: process_cell
+
+cmds:
+  - cmd: /mayhem/process_cell
